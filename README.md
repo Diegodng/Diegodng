@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+1.primeiro_item
+2.segundo_item
+3.terceiro_item
+
+
+
 <!--
 **Diegodng/Diegodng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
